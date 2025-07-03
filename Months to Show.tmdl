@@ -140,7 +140,7 @@ createOrReplace
 					```
 
 		/// The time frame to show on axis when disconnected calendar is used
-		column 'Time Calculation'
+		column 'Months to show'
 			dataType: string
 			lineageTag: 82da33ee-8c8b-4042-977e-6b6853f2e10d
 			sourceColumn: Name
