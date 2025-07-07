@@ -275,8 +275,8 @@ createOrReplace
 			source =
 					let
 					    Source = Sql.Databases("localhost"),
-					    #"Contoso V2 100M" = Source{[Name="Contoso V2 100M"]}[Data],
-					    dbo_DateTable_Contoso = #"Contoso V2 100M"{[Schema="dbo",Item="DateContoso"]}[Data]
+					    #"Contoso V2 1M" = Source{[Name="Contoso V2 1M"]}[Data],
+					    dbo_DateTable_Contoso = #"Contoso V2 1M"{[Schema="dbo",Item="DateContoso"]}[Data]
 					in
 					    dbo_DateTable_Contoso
 
