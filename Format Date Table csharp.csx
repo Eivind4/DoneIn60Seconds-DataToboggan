@@ -10,7 +10,7 @@
  //        2a: The minimum of the selected date in the applied filter from the calendar or today
  //        2b: Last fact date, selected date from a fact table
  // 3. Apply best practice:
- //       3b: Apply a format string for the date-columns MM/DD/YYYY (as this is the condition in best-practice analyzer) 
+ //       Apply a format string for the date-columns MM/DD/YYYY (as this is the condition in best-practice analyzer) 
  
  
 
