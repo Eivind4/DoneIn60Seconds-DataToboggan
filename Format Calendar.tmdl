@@ -182,7 +182,7 @@ createOrReplace
 
 			annotation SummarizationSetBy = Automatic
 
-		/// 1=Sunday to 7=Saturday
+		/// 0=Monday to 6=Sunday
 		column 'Day of Week Number'
 			dataType: int64
 			isHidden
